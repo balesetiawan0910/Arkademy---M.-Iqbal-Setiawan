@@ -1,5 +1,5 @@
 <?php
-printWords("arkademy");
+printWords("arkademyy");
 //conversi text ke array
 
 
