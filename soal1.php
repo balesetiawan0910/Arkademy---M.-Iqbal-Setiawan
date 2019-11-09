@@ -1,5 +1,5 @@
 <?php
-soal1("bale", 22);
+soal1("M. Iqbal Setiawan", 22);
 
 function soal1($name, $age){
     $address = "Jl. Alam Raya GG. Naras III";
